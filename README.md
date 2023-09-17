@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hardik Sharma</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h3 align="center">A passionate Backend Developer from India</h3>
 
 - 🔭 I’m currently working on **Improving cloud-based solutions and implementing microservices architecture.**
 
 - 👯 I’m looking to collaborate on **FullStack Projects**
 
-- 💬 Ask me about **C#, .NET Core, MVC, ASP.NET, WEB API,SOLID Principal, Design Pattern, Azure DevOps**
+- 💬 Ask me about **C#, .NET Core, MVC, ASP.NET, WEB API, SOLID Principal, Design Pattern, Azure DevOps**
 
 - 📫 How to reach me **er.hardik9@gmail.com, Contact No: +91-9988494948**
 
